@@ -6,9 +6,7 @@ title: OctoPrint-Enclosure
 description: TODO
 author: Thomas Bétrancourt
 license: AGPLv3
-
-# TODO
-date: today's date in format YYYY-MM-DD, e.g. 2015-04-21
+date: 2019-05-29
 
 homepage: https://github.com/rclsilver/OctoPrint-Enclosure
 source: https://github.com/rclsilver/OctoPrint-Enclosure
