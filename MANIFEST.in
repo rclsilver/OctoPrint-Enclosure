@@ -1,0 +1,4 @@
+include README.md
+recursive-include enclosure_plugin/templates *
+recursive-include enclosure_plugin/translations *
+recursive-include enclosure_plugin/static *
